@@ -1,8 +1,8 @@
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yashrajmani/clan?style=for-the-badge)](https://github.com/yashrajmani/)
-[![LAST COMMIT](https://img.shields.io/github/last-commit/yashrajmani/clan?style=for-the-badge)](https://github.com/yashrajmani/)
-[![Languages](https://img.shields.io/github/languages/count/yashrajmani/clan?style=for-the-badge)](https://github.com/yashrajmani/)
+[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/yashrajmani/survey?style=for-the-badge)](https://github.com/yashrajmani/)
+[![LAST COMMIT](https://img.shields.io/github/last-commit/yashrajmani/survey?style=for-the-badge)](https://github.com/yashrajmani/)
+[![Languages](https://img.shields.io/github/languages/count/yashrajmani/survey?style=for-the-badge)](https://github.com/yashrajmani/)
 [![Follow Me on GitHub:](https://img.shields.io/github/followers/yashrajmani?style=for-the-badge)](https://github.com/yashrajmani/)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/yashrajmani/TriNetra-Microsoft-Engage-22?style=for-the-badge)](https://github.com/yashrajmani/)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/yashrajmani/survey?style=for-the-badge)](https://github.com/yashrajmani/)
 
 
 # survey
