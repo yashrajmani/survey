@@ -29,7 +29,7 @@ This can also be added in configurations as Additional Run Arguments.
 
 - Directly download the APK file from here : <LINK>
 	
-- RUN : `git clone https://github.com/yashrajmani/TriNetra-Microsoft-Engage-22.git` 
+- RUN : `git clone https://github.com/yashrajmani/survey.git` 
 	
 #### Android Studio/IntelliJ/VSCODE:
 
