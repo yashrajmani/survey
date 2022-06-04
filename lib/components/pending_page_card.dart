@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:survey/routes/startsurvey.dart';
 
-import '../routes/loginpage.dart';
 
 class PendingPageCard extends StatelessWidget {
   PendingPageCard({Key? key, required this.title, required this.val})
